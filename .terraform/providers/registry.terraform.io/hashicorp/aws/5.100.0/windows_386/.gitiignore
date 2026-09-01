@@ -1,9 +1,0 @@
-# Ignore everything by default.
-*
-
-# Explicitly ignore Terraform state and backup files.
-*.tfstate
-*.tfstate.*
-
-# Track only Terraform configuration files.
-!*.tf
